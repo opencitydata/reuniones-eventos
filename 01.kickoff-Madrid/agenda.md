@@ -82,7 +82,7 @@ La UPM se encargará de organizar la logística de cafés (que correrán por cue
 
 12:00 - 12:30 Café
 
-12:30 - 14:00 Reunión abierta para presentar la red al público
+12:30 - 14:00 Reunión abierta para presentar la red al público. Obtén tu entrada en https://www.eventbrite.es/e/entradas-presentacion-de-la-red-tematica-de-open-data-y-ciudades-inteligentes-21412895547
 
     Presentación general de la red
     Objetivos y próximos eventos
