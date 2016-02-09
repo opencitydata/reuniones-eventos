@@ -7,7 +7,7 @@ La reunión se realizará en dos lugares distintos, y cada uno de los días tend
 * **Reunión interna entre miembros de la red** 
  * Miércoles 17/02/2016 (12:00-18:00)
  * Lugar: Facultad de Informática (UPM). Campus de Montegancedo. Boadilla del Monte. http://www.fi.upm.es/?id=comollegar
- * Sala: por determinar
+ * Sala: H-1002 (bloque I)
 * **Reunión abierta a la comunidad open data**
  * Jueves 18/02/2016 (10:15-14:00).
  * Lugar: Medialab-Prado. Frente al CaixaForum, en Atocha. http://medialab-prado.es/article/donde_y_cuando
@@ -77,6 +77,7 @@ La UPM se encargará de organizar la logística de cafés (que correrán por cue
     UPM: presentación del portal y API de datos abiertos de Zaragoza
     UPM: presentación de norma UNE 178301
     UPM: Demo y desarrollos abiertos en ontoology.linkeddata.es
+    UPM (Asunción Gómez-Pérez): Presentación del nodo ODI Madrid
     UPM: Trabajo realizado por el grupo OpenData100
     ...
 
