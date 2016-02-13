@@ -61,7 +61,7 @@ La UPM se encargará de organizar la logística de cafés (que correrán por cue
     Redes sociales
     Apertura a socios adicionales (sin coste para la red)
     Identificación de actividades conjuntas de I+D
-    Movilidad (tenemos 10.000 euros)
+    Movilidad
     Organización de algún workshop científico
     Material docente
 
@@ -74,6 +74,7 @@ La UPM se encargará de organizar la logística de cafés (que correrán por cue
 10:30 - 12:00 Presentaciones detalladas de trabajos realizados sobre Open Data y ciudades
 
     ...
+    Deusto: trabajos realizados sobre smart cities
     UPM: presentación del portal y API de datos abiertos de Zaragoza
     UPM: presentación de norma UNE 178301
     UPM: Demo y desarrollos abiertos en ontoology.linkeddata.es
