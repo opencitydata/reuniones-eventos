@@ -78,6 +78,8 @@ La UPM se encargará de organizar la logística de cafés (que correrán por cue
     Oscar Corcho (UPM): herramientas para el desarrollo de vocabularios: ontoology.linkeddata.es
     Oscar Corcho (UPM): norma UNE 178301 y breve descripción del trabajo realizado por el grupo OpenData100 (que se reúne a las tres de la tarde)
     Asunción Gómez-Pérez: Presentación del nodo ODI Madrid
+    Álvaro Sicilia (ARC-La Salle): trabajos realizados por el grupo ARC de La Salle sobre smart cities y datos semánticos
+
 
 12:00 - 12:30 Café
 
