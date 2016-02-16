@@ -73,14 +73,11 @@ La UPM se encargará de organizar la logística de cafés (que correrán por cue
 
 10:30 - 12:00 Presentaciones detalladas de trabajos realizados sobre Open Data y ciudades
 
-    ...
-    Deusto: trabajos realizados sobre smart cities
-    UPM: presentación del portal y API de datos abiertos de Zaragoza
-    UPM: presentación de norma UNE 178301
-    UPM: Demo y desarrollos abiertos en ontoology.linkeddata.es
-    UPM (Asunción Gómez-Pérez): Presentación del nodo ODI Madrid
-    UPM: Trabajo realizado por el grupo OpenData100
-    ...
+    Diego López de Ipiña (Universidad de Deusto): trabajos realizados en la Universidad de Deusto sobre smart cities
+    María Poveda (UPM): ontologías y catálogos para smart cities
+    Oscar Corcho (UPM): herramientas para el desarrollo de vocabularios: ontoology.linkeddata.es
+    Oscar Corcho (UPM): norma UNE 178301 y breve descripción del trabajo realizado por el grupo OpenData100 (que se reúne a las tres de la tarde)
+    Asunción Gómez-Pérez: Presentación del nodo ODI Madrid
 
 12:00 - 12:30 Café
 
